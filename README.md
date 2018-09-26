@@ -1,2 +1,4 @@
-# my-portfolio1
-This is my professional portfolio
+# Steve Hollar portfolio
+
+
+This is my professional portfolio. It uses AWS and ReactJS.
